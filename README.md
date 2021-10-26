@@ -16,7 +16,7 @@ A powerful Discord bot for server administration and communities!
   - And many more... 🎇
 
 ## Patch Notes
-    **V. 0.0.1**
+    V. 0.0.1
           - Added bot structure {Handlers & Functions}
           - Added Moderation commands
           - Added some Slash Commands 
